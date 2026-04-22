@@ -16,13 +16,15 @@
 
 ## 🛠️ Stack Technologique
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</p>
+| Technologie | Logo | Usage |
+| :--- | :---: | :--- |
+| **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35"/> | Environnement d'exécution JavaScript côté serveur. |
+| **Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="35" height="35"/> | Framework web pour la création d'APIs REST. |
+| **MongoDB** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35"/> | Base de données NoSQL orientée documents. |
+| **Mongoose** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="35" height="35" style="background:white; border-radius:4px;"/> | ODM pour la modélisation des données MongoDB. |
+| **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> | Langage de programmation principal du projet. |
 
+---
 **Bella Pizza API** est une solution backend complète et professionnelle conçue pour gérer les opérations quotidiennes d'une pizzeria. Elle permet de gérer efficacement les pizzas, les clients et le cycle de vie des commandes avec des fonctionnalités avancées de calcul de facturation.
 
 ---
