@@ -1,0 +1,101 @@
+# 🍕 Bella Pizza API
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+**Bella Pizza API** est une solution backend complète et professionnelle conçue pour gérer les opérations quotidiennes d'une pizzeria. Elle permet de gérer efficacement les pizzas, les clients et le cycle de vie des commandes avec des fonctionnalités avancées de calcul de facturation.
+
+---
+
+## 🚀 Fonctionnalités
+
+-   **Gestion des Commandes** : Création, listage complet et suppression.
+-   **Suivi Client** : Récupération de l'historique des commandes d'un client spécifique.
+-   **Calculs Automatisés** : Calcul dynamique du montant par commande et du total général pour chaque client.
+-   **Validation Robuste** : Utilisation d'un middleware de validation pour garantir l'intégrité des données entrantes.
+-   **Architecture Pro** : Structure de projet modulaire (MVC) facile à maintenir et à faire évoluer.
+-   **Logs & Monitoring** : Intégration de Morgan pour le suivi des requêtes HTTP.
+
+---
+
+## 📂 Structure du Projet
+
+```text
+/
+├── config/         # Connexion à la base de données
+├── controllers/    # Logique métier et manipulation des données
+├── middleware/     # Validation et traitements intermédiaires
+├── models/         # Définition des schémas Mongoose (Pizza, Client, Commande)
+├── routes/         # Définition des points d'entrée (Endpoints)
+├── .env            # Configuration des variables d'environnement
+├── .gitignore      # Exclusion des fichiers sensibles
+├── server.js       # Point d'entrée principal de l'application
+└── package.json    # Dépendances et scripts
+```
+
+---
+
+## 🛠️ Installation et Configuration
+
+### Prérequis
+-   [Node.js](https://nodejs.org/) (v14+)
+-   [MongoDB](https://www.mongodb.com/) (Local ou Atlas)
+
+### Étapes
+1.  **Cloner le dépôt**
+    ```bash
+    git clone https://github.com/Ayoub-glitsh/Bella-Pizza-API.git
+    cd Bella-Pizza-API
+    ```
+
+2.  **Installer les dépendances**
+    ```bash
+    npm install
+    ```
+
+3.  **Configurer les variables d'environnement**
+    Créez un fichier `.env` à la racine :
+    ```env
+    PORT=3000
+    MONGO_URI=mongodb://localhost:27017/BD_Pizza
+    NODE_ENV=development
+    ```
+
+4.  **Démarrer le serveur**
+    ```bash
+    npm start
+    ```
+
+---
+
+## 🛣️ API Endpoints
+
+### Commandes
+| Méthode | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/commandes` | Liste toutes les commandes |
+| `GET` | `/commandes/:idpizza` | Liste les commandes pour une pizza donnée |
+| `POST` | `/commandes` | Crée une nouvelle commande |
+| `DELETE`| `/commandes/:tel` | Supprime toutes les commandes d'un client |
+
+### Clients
+| Méthode | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/clients/:tel/commandes`| Liste les commandes d'un client + Totaux |
+
+---
+
+## 🧪 Tests avec Postman
+Vous pouvez importer les endpoints dans Postman pour tester la logique. Assurez-vous d'avoir préalablement créé des entrées dans les collections `Pizzas` et `Clients` pour lier les commandes correctement.
+
+---
+
+## 📜 Licence
+Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+
+---
+
+## 👨‍💻 Auteur
+**Ayoub** - [Ayoub-glitsh](https://github.com/Ayoub-glitsh)
