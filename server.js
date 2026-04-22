@@ -37,6 +37,20 @@ app.use((req, res) => {
 
 const PORT = process.env.PORT || 3000;
 
+// Animation de frappe pour le console log
+const typeText = (text, delay = 50) => {
+    let i = 0;
+    const interval = setInterval(() => {
+        process.stdout.write(text[i]);
+        i++;
+        if (i === text.length) {
+            clearInterval(interval);
+            console.log('\n');
+        }
+    }, delay);
+};
+
 app.listen(PORT, () => {
-    console.log(`Serveur démarré en mode ${process.env.NODE_ENV || 'production'} sur le port ${PORT}`);
+    const message = `🚀 Serveur démarré avec succès sur le port ${PORT}... Prêt pour les commandes !`;
+    typeText(message);
 });
