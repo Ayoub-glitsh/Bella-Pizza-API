@@ -23,11 +23,11 @@
 
 | Technologie | Logo | Usage |
 | :--- | :---: | :--- |
-| **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35"/> | Environnement d'exécution JavaScript côté serveur. |
-| **Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="35" height="35"/> | Framework web pour la création d'APIs REST. |
-| **MongoDB** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35"/> | Base de données NoSQL orientée documents. |
-| **Mongoose** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="35" height="35" style="background:white; border-radius:4px;"/> | ODM pour la modélisation des données MongoDB. |
-| **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> | Langage de programmation principal du projet. |
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> | Environnement d'exécution JavaScript côté serveur. |
+| **Express.js** | <img src="https://cdn.simpleicons.org/express/white" width="35"/> | Framework web pour la création d'APIs REST. |
+| **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> | Base de données NoSQL orientée documents. |
+| **Mongoose** | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="35"/> | ODM pour la modélisation des données MongoDB. |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> | Langage de programmation principal du projet. |
 
 ---
 
