@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/express/white" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/q_auto/f_auto/v1776906183/mongoose-removebg-preview_qindku.png" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
