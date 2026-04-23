@@ -14,6 +14,11 @@
 
 ---
 
+**Bella Pizza API** est une solution backend complète et professionnelle conçue pour gérer les opérations quotidiennes d'une pizzeria. Elle permet de gérer efficacement les pizzas, les clients et le cycle de vie des commandes avec des fonctionnalités avancées de calcul de facturation.
+
+
+---
+
 ## 🛠️ Stack Technologique
 
 | Technologie | Logo | Usage |
@@ -25,9 +30,9 @@
 | **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> | Langage de programmation principal du projet. |
 
 ---
-**Bella Pizza API** est une solution backend complète et professionnelle conçue pour gérer les opérations quotidiennes d'une pizzeria. Elle permet de gérer efficacement les pizzas, les clients et le cycle de vie des commandes avec des fonctionnalités avancées de calcul de facturation.
 
----
+
+
 
 ## 🚀 Fonctionnalités
 
