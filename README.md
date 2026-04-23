@@ -29,7 +29,7 @@
 | **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> | Environnement d'exécution JavaScript côté serveur. |
 | **Express.js** | <img src="https://cdn.simpleicons.org/express/white" width="35"/> | Framework web pour la création d'APIs REST. |
 | **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> | Base de données NoSQL orientée documents. |
-| **Mongoose** | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="35"/> | ODM pour la modélisation des données MongoDB. |
+| **Mongoose** | <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/q_auto/f_auto/v1776906183/mongoose-removebg-preview_qindku.png" width="55"/> | ODM pour la modélisation des données MongoDB. |
 | **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> | Langage de programmation principal du projet. |
 
 ---
