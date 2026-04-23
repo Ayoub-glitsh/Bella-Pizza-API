@@ -24,7 +24,7 @@
 
 ## 🛠️ Stack Technologique
 
-| Technologie | Logo | Usage |
+| Technologie | Logo | Usage | 
 | :--- | :---: | :--- |
 | **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> | Environnement d'exécution JavaScript côté serveur. |
 | **Express.js** | <img src="https://cdn.simpleicons.org/express/white" width="35"/> | Framework web pour la création d'APIs REST. |
