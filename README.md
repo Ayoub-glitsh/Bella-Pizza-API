@@ -7,10 +7,10 @@
 </p>
 
 
+
+<!-- HEADER ANIMÉ -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B733&center=true&vCenter=true&width=435&lines=Gestion+de+Pizzeria+Moderne;API+REST+Performante;Node.js+%2B+Express+%2B+MongoDB;Bienvenue+chez+Bella+Pizza!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F7B733&center=true&vCenter=true&width=900&height=120&lines=Gestion+de+Pizzeria+Moderne;API+REST+Performante;Node.js+%2B+Express+%2B+MongoDB;Bienvenue+chez+Bella+Pizza!" alt="Typing SVG" />
 </p>
 
 # 🍕 Bella Pizza API
